@@ -24,7 +24,7 @@
 }
 .price{
     margin-left: -60px;
-    font-size: 10px;
+    font-size: 12px;
 }
 .plan{
     display: flex;
@@ -51,6 +51,9 @@
     .summary-container{
         width: 80%;
         margin: 20px auto;
-     
+    }
+    .price{
+        margin:0;
+        font-size: 10px;
     }
 }
