@@ -1,0 +1,49 @@
+.summary-container{
+    border: 1px solid white;
+    margin: 50px auto;
+    text-align: center; 
+    background-color: white;
+    box-shadow:0px 0px 1px 1px rgba(1, 2, 20, 0.15); ;
+    border-radius: 20px;
+    width: 30%;
+    border: none;
+  
+}
+.header-img img{
+    width: 100%;
+    height: auto;
+    border-radius:20px 20px 0 0;
+}
+.summary{
+    line-height: 2;
+    padding: 15px;
+    color: hsl(224, 23%, 55%);
+}
+.summary h1{
+    color: hsl(223, 47%, 23%);
+}
+.price{
+    margin-left: -60px;
+    font-size: 10px;
+}
+.plan{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 18px;
+    margin: 20px ;
+   background-color:hsl(225, 100%, 94%);
+   align-items: center;
+   border-radius: 10px;
+    
+}
+
+.proceed button{
+    padding: 1.5em 5em;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    border: none;
+}
+.proceedpayment{
+    background-color: hsl(224, 23%, 55%);
+    color: white;
+}
