@@ -23,8 +23,12 @@
     color: hsl(223, 47%, 23%);
 }
 .price{
-    margin-left: -60px;
+
     font-size: 12px;
+    width:60%;
+}
+.price h2{
+    margin-right: -20px;
 }
 .plan{
     display: flex;

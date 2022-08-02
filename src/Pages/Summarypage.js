@@ -23,6 +23,7 @@ const Summarypage = () => {
             <div className='icon'>
                 <img src={music} alt=''/>
             </div>
+            
             <div className='price'>
                 <h2>Annual Plan</h2>
                 <h3>$59.99 dollar per year</h3>
