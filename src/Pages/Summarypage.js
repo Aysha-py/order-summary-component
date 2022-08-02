@@ -39,6 +39,11 @@ const Summarypage = () => {
                 <div className='proceed'>
                     <button className='cancelPayment'>Cancel Order</button>
                 </div>
+                <footer>
+                    <p class="cp-text">
+                        Challenge by frontendmentor.io. <span style={{color:"green"}}>Coded By </span>Aysha Muhammed
+                    </p>
+                </footer>
       
     </div>
 

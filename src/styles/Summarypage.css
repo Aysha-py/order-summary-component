@@ -56,6 +56,11 @@
     background-color: hsl(224, 23%, 55%);
     color: white;
 }
+footer{
+    text-align: center;
+    font-size: 10px;
+    padding: 5px 0;
+}
 @media screen and (max-width: 920px) {
     .summary-container{
         width: 80%;
