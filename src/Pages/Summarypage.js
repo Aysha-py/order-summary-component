@@ -11,7 +11,7 @@ const Summarypage = () => {
                 <img src={illustration} alt=''/>
             </div>
         </header>
-        <body>
+       
                 
                 <div className='summary'>
                     <h1>Order Summary</h1>
@@ -39,7 +39,7 @@ const Summarypage = () => {
                 <div className='proceed'>
                     <button className='cancelPayment'>Cancel Order</button>
                 </div>
-        </body>
+      
     </div>
 
   )
