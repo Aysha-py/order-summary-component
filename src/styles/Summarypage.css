@@ -22,10 +22,14 @@
 .summary h1{
     color: hsl(223, 47%, 23%);
 }
+.plan{
+    cursor: pointer;
+}
 .price{
 
     font-size: 12px;
     width:60%;
+   
 }
 .price h2{
     margin-right: -20px;
@@ -46,6 +50,7 @@
     margin-bottom: 20px;
     border-radius: 15px;
     border: none;
+    cursor: pointer;
 }
 .proceedpayment{
     background-color: hsl(224, 23%, 55%);
