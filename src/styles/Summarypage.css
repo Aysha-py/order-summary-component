@@ -70,12 +70,20 @@ footer{
     padding: 5px 0;
 }
 @media screen and (max-width: 920px) {
+    #summary-component{
+        max-width:375px;
+        padding: 20px;
+        }
     .summary-container{
-        width: 80%;
+        width: 100%;
         margin: 20px auto;
     }
-    .price{
-        margin:0;
-        font-size: 10px;
+    .summary{
+        padding: 0;
     }
+    .change{
+        
+        margin-left: 20px;
+     }
+     
 }
