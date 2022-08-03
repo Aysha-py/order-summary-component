@@ -4,7 +4,8 @@ import music from"../images/icon-music.svg"
 
 const Summarypage = () => {
   return (
- 
+    <div id='summary-component'>
+    
     <div className='summary-container'>
         <header>
             <div className='header-img'>
@@ -27,7 +28,7 @@ const Summarypage = () => {
                     
                     <div className='price'>
                         <h2>Annual Plan</h2>
-                        <h3>$59.99 dollar per year</h3>
+                        <h3>$59.99/year</h3>
                     </div>
                     <div className='change'>
                         <h4>Change</h4>
@@ -45,6 +46,7 @@ const Summarypage = () => {
                     </p>
                 </footer>
       
+    </div>
     </div>
 
   )
