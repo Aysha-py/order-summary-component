@@ -17,7 +17,7 @@ const Summarypage = () => {
                 <div className='summary'>
                     <h1>Order Summary</h1>
                     <p>You can now listen to millions of songs, audiobooks, and
-                        podcast on any device aanywhere you like
+                        podcast on any device aanywhere you like!
                     </p>
                 </div>
 
